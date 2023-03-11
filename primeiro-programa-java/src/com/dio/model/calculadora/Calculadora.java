@@ -27,8 +27,7 @@ public class Calculadora {
 	}
 
 	private static int soma(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+		return a + b;
 	}
 
 	public static int subtracao(int a, int b) {
